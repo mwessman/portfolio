@@ -1,0 +1,52 @@
+## Basic Configuration
+
+baseurl = "https://mwessman.github.io/portfolio/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Michael Wessman"
+title = "Michael Wessman"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Michael Wessman"
+intro = "Master of Science in Technology"
+description = "Recent graduate from Åbo Akademi, ICT Showroom 2018 champion, Python guru"
+authorimage = "headshot1.jpg"
+dateformat = "Jan 2, 2018"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "mwessman"
+linkedin = "michael-wessman"
+email = "mwessman@abo.fi"
+
+## Extras
+[params.extra]
+copyright =  ""
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
