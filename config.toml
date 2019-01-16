@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Michael Wessman"
-intro = "Master of Science in Technology"
-description = "Recent graduate from Åbo Akademi, ICT Showroom 2018 champion, Python guru"
+intro = "Data Engineer at Solita"
+description = "Master of Science in Technology graduate from Åbo Akademi University"
 authorimage = "headshot1.jpg"
 dateformat = "Jan 2, 2018"
 
@@ -36,7 +36,8 @@ keywords = "minimalist,blog,goa,hugo,developer"
 [params.social]
 github = "mwessman"
 linkedin = "michael-wessman"
-email = "mwessman@abo.fi"
+email = "michael.wessman@solita.fi"
+
 
 ## Extras
 [params.extra]
