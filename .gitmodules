@@ -1,6 +1,6 @@
 [submodule "themes/hugo-goa"]
 	path = themes/hugo-goa
 	url = https://github.com/kaapiandcode/hugo-goa.git
-[submodule "docs"]
-	path = docs
-	url = git@github.com:mwessman/mwessman.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/mwessman/mwessman.github.io
