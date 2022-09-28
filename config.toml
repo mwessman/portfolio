@@ -51,3 +51,9 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "server"
+    identifier = "server"
+    weight = 200
+    url = "/server/"
+    
