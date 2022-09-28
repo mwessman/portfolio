@@ -1,20 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>server on Michael Wessman</title>
-    <link>https://mwessman.github.io/categories/server/</link>
-    <description>Recent content in server on Michael Wessman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 02 May 2018 22:55:05 -0400</lastBuildDate><atom:link href="https://mwessman.github.io/categories/server/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Server</title>
-      <link>https://mwessman.github.io/server/</link>
-      <pubDate>Wed, 02 May 2018 22:55:05 -0400</pubDate>
-      
-      <guid>https://mwessman.github.io/server/</guid>
-      <description>sweatycave.ddns.netLoading ...</description>
-    </item>
-    
-  </channel>
-</rss>
