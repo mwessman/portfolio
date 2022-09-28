@@ -43,7 +43,7 @@ goodreads = "gucciwess"
 [params.extra]
 copyright =  ""
 poweredby = false
-hightlightjs = true
+hightlightjs = false
 
 ## Main Menu
 [[menu.main]]
@@ -51,9 +51,3 @@ hightlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "server"
-    identifier = "server"
-    weight = 200
-    url = "/server/"
-    
