@@ -15,14 +15,14 @@ title = "Michael Wessman"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Michael Wessman"
-intro = "Data Engineer at Solita"
+intro = "AI Engineer at Silo AI"
 description = "Master of Science in Technology graduate from Åbo Akademi University"
 authorimage = "headshot1.jpg"
 dateformat = "Jan 2, 2018"
@@ -37,12 +37,12 @@ keywords = "minimalist,blog,goa,hugo,developer"
 github = "mwessman"
 linkedin = "michael-wessman"
 email = "michael.wessman@solita.fi"
-
+goodreads = "gucciwess"
 
 ## Extras
 [params.extra]
 copyright =  ""
-poweredby = true
+poweredby = false
 hightlightjs = true
 
 ## Main Menu
